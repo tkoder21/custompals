@@ -2,7 +2,7 @@ Package: custompals
 Title: Custom Color Palettes for Plotting
 Version: 0.0.0.9000
 Authors@R:
-    person("Toshitha", "Kannan", , "toshithakannan@gmail.com", role = c("aut", "cre"))
+    person("tkoder21", , , "tkoder21@users.noreply.github.com", role = c("aut", "cre"))
 Description: A personal collection of custom color palettes, with helper
     functions to retrieve them as discrete or continuous color vectors and
     ggplot2 scale functions for direct use in plots.
