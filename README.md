@@ -5,10 +5,11 @@ devtools::install_github("tkoder21/custompals")
 
 list_palettes() to list the available palettes.
 
-Add more palettes by modifying code in data-raw. Remember to run:
-source("~/custompals/data-raw/palettes.R")
+Add more palettes by modifying code in data-raw. Remember to run
+
+source("./custompals/data-raw/palettes.R")
 devtools::document()
-devtools::install("~/custompals")   # or push + install_github again after adding new palettes.
+devtools::install("./custompals")   # or push + install_github again after adding new palettes.
 
 Try pal("paletteName") to preview swatch.
 
